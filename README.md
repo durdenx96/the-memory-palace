@@ -1,2 +1,6 @@
 # the-memory-palace
-Personal Hugo website 
+Personal Hugo website []
+
+Using terminal theme []
+
+Hosted on Netlify []

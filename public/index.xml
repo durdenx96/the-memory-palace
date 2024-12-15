@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexander Atte</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Alexander Atte</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 12 Dec 2024 07:35:38 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Thu, 12 Dec 2024 07:35:38 +0100</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>Introduction to Hugo This is my first Hugo website. Join me as I fuck around and find out.&#xA;PS: If you&amp;rsquo;re expecting a walkthrough this is not it. I&amp;rsquo;ll start by saying the title may be misleading, for someone with a non-technical background there&amp;rsquo;s nothing objectively &amp;lsquo;quick&amp;rsquo; aboout Hugo ಠ_ಠ.&#xA;Compared to the thousands of AI tools spawned by the second this took me 3 whole days to figure out! But those were some of the most fulfilling 3 days I&amp;rsquo;ve had in a minute, truth be told Hugo is not complicated once you start to actually get it (ignore the redundancy of this statement, you know what I mean).</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Introduction Carpe Diem.&#xA;Lover of history, food and all things technology. Currently on the computer either watching Anthony Bourdain videos or learning linux system administration. This is supposed to be a digital repo for all my writing across various topics, might even build some neat thing on here too. We&amp;rsquo;ll see.&#xA;Links alexanderatte@gmail.com&#xA;Resume&#xA;GitHub :: Twitter :: Instagram</description>
+    </item>
+  </channel>
+</rss>

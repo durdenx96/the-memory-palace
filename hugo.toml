@@ -1,0 +1,64 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Alexander Atte'
+theme = 'terminal'
+keywords = [
+  'digital marketing',
+  'research',
+  'copywriting',
+  'alexander atte',
+  'github',
+  'sysadmin',
+  'development',
+  'linux',
+  'developer',
+  'alexanderatte@gmail.com',
+]
+enableEmoji = true
+enableRobotsTXT = true
+
+[pagination]
+pagerSize = 5
+
+[params]
+  contentTypeName = "posts"
+  showMenuItems = 2
+  showLanguageSelector = false
+  fullWidthTheme = false
+  centerTheme = true
+  autoCover = true
+  showLastUpdated = false
+
+[languages]
+  [languages.en]
+    languageName = "English"
+
+    [languages.en.params]
+      subtitle = "Aloha, my name is Alexander Atte AKA @durdenx96..."
+      menuMore = "More"
+      readMore = "Read more"
+      readOtherPosts = "Read other posts"
+      newerPosts = "Newer posts"
+      olderPosts = "Older posts"
+      missingContentMessage = "Page not found..."
+      missingBackButtonLabel = "Back to home page"
+      minuteReadingTime = "min read"
+      words = "words"
+
+      [languages.en.params.logo]
+	logoText = "the memory palace"
+        logoHomeLink = "/"
+
+      [languages.en.menu]
+        [[languages.en.menu.main]]
+          identifier = "about"
+          name = "About"
+          url = "/about"
+          weight = 1
+
+        [[languages.en.menu.main]]
+          identifier = "posts"
+          name = "Posts"
+          url = "/posts"
+          weight = 2
+
