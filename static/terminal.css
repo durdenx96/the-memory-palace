@@ -1,10 +1,7 @@
-/* Fira Code: https://github.com/tonsky/FiraCode */
-@import url(https://cdn.jsdelivr.net/npm/firacode@6.2.0/distr/fira_code.css);
-
 :root {
-  --background: #222436;
-  --foreground: #f7e9f9;
-  --accent: #e575f8;
+  --background: #0e1923;
+  --foreground: #d6e8ee;
+  --accent: #5accf0;
   --radius: 0;
   --font-size: 1rem;
   --line-height: 1.54em;
@@ -25,6 +22,7 @@ html {
 body {
   margin: 0;
   padding: 0;
+  text-align: center;
   font-family:
     "Fira Code",
     Monaco,
