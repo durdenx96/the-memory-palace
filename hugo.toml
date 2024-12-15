@@ -3,14 +3,13 @@ languageCode = 'en-us'
 title = 'Alexander Atte'
 theme = 'terminal'
 keywords = [
-  'digital marketing',
-  'research',
-  'copywriting',
+  'durdenx96',
+  'alex',
   'alexander atte',
   'github',
-  'sysadmin',
+  'programming',
   'development',
-  'linux',
+  'programmer',
   'developer',
   'alexanderatte@gmail.com',
 ]
@@ -21,44 +20,51 @@ enableRobotsTXT = true
 pagerSize = 5
 
 [params]
-  contentTypeName = "posts"
-  showMenuItems = 2
-  showLanguageSelector = false
-  fullWidthTheme = false
-  centerTheme = true
-  autoCover = true
-  showLastUpdated = false
+contentTypeName = "posts"
+showMenuItems = 2
+showLanguageSelector = false
+fullWidthTheme = false
+centerTheme = true
+autoCover = true
+showLastUpdated = false
+
+# [markup.goldmark.renderer]
+# unsafe = true
+
+[security]
+[security.funcs]
+getenv = ["^HUGO_"]
 
 [languages]
-  [languages.en]
-    languageName = "English"
+[languages.en]
+languageName = "English"
+title = "Alexander Atte"
 
-    [languages.en.params]
-      subtitle = "Aloha, my name is Alexander Atte AKA @durdenx96..."
-      menuMore = "More"
-      readMore = "Read more"
-      readOtherPosts = "Read other posts"
-      newerPosts = "Newer posts"
-      olderPosts = "Older posts"
-      missingContentMessage = "Page not found..."
-      missingBackButtonLabel = "Back to home page"
-      minuteReadingTime = "min read"
-      words = "words"
+[languages.en.params]
+subtitle = "Hello, My name is Alexander Atte. A.K.A @durdenx96..."
+menuMore = "More"
+readMore = "Read more"
+readOtherPosts = "Read other posts"
+newerPosts = "Newer posts"
+olderPosts = "Older posts"
+missingContentMessage = "Page not found..."
+missingBackButtonLabel = "Back to home page"
+minuteReadingTime = "min read"
+words = "words"
 
-      [languages.en.params.logo]
-	logoText = "the memory palace"
-        logoHomeLink = "/"
+[languages.en.params.logo]
+logoText = "the memory palace"
+logoHomeLink = "/"
 
-      [languages.en.menu]
-        [[languages.en.menu.main]]
-          identifier = "about"
-          name = "About"
-          url = "/about"
-          weight = 1
+[languages.en.menu]
+[[languages.en.menu.main]]
+identifier = "about"
+name = "About"
+url = "/about"
+weight = 1
 
-        [[languages.en.menu.main]]
-          identifier = "posts"
-          name = "Posts"
-          url = "/posts"
-          weight = 2
-
+[[languages.en.menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "/posts"
+weight = 2

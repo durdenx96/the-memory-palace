@@ -4,16 +4,25 @@
     <title>Posts on Alexander Atte</title>
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Alexander Atte</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Dec 2024 07:35:38 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Dec 2024 16:14:15 +0100</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Thu, 12 Dec 2024 07:35:38 +0100</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>Introduction to Hugo This is my first Hugo website. Join me as I fuck around and find out.&#xA;PS: If you&amp;rsquo;re expecting a walkthrough this is not it. I&amp;rsquo;ll start by saying the title may be misleading, for someone with a non-technical background there&amp;rsquo;s nothing objectively &amp;lsquo;quick&amp;rsquo; aboout Hugo ಠ_ಠ.&#xA;Compared to the thousands of AI tools spawned by the second this took me 3 whole days to figure out! But those were some of the most fulfilling 3 days I&amp;rsquo;ve had in a minute, truth be told Hugo is not complicated once you start to actually get it (ignore the redundancy of this statement, you know what I mean).</description>
+      <title>Hello Hugo</title>
+      <link>http://localhost:1313/posts/hello-hugo/</link>
+      <pubDate>Sun, 15 Dec 2024 16:14:15 +0100</pubDate>
+      
+      <guid>http://localhost:1313/posts/hello-hugo/</guid>
+      <description>Introduction to Hugo This is my first Hugo website. Join me as I fuck around and find out.
+PS: If you&amp;rsquo;re expecting a walkthrough this is not it. I&amp;rsquo;ll start by saying the title may be misleading, for someone with a non-technical background there&amp;rsquo;s nothing objectively &amp;lsquo;quick&amp;rsquo; aboout Hugo ಠ_ಠ.
+Compared to the thousands of AI tools spawned by the second this took me 3 whole days to figure out! But those were some of the most fulfilling 3 days I&amp;rsquo;ve had in a minute, truth be told Hugo is not complicated once you start to actually get it (ignore the redundancy of this statement, you know what I mean).</description>
+      <content>&lt;h2 id=&#34;introduction-to-hugo&#34;&gt;Introduction to Hugo&lt;/h2&gt;
+&lt;p&gt;This is my &lt;strong&gt;first&lt;/strong&gt; Hugo website. Join me as I fuck around and find out.&lt;br&gt;
+&lt;br&gt;
+PS: If you&amp;rsquo;re expecting a walkthrough this is not it. I&amp;rsquo;ll start by saying the title may be misleading, for someone with a non-technical background there&amp;rsquo;s nothing objectively &amp;lsquo;quick&amp;rsquo; aboout Hugo ಠ_ಠ.&lt;/p&gt;
+&lt;p&gt;Compared to the thousands of AI tools spawned by the second this took me 3 whole days to figure out! But those were some of the most fulfilling 3 days I&amp;rsquo;ve had in a minute, truth be told Hugo is not complicated once you start to actually get it (ignore the redundancy of this statement, you know what I mean). Built on a the HCJG stack (little tongue twister for ya) - HTML, CSS, JS and Go, the abundance of themes are a God send feature so there&amp;rsquo;s something for just about everyone and every purpose. Will I keep using Hugo moving forward? HELL MF YEAH!! It&amp;rsquo;s quick and damn near perfect.&lt;/p&gt;
+</content>
     </item>
+    
   </channel>
 </rss>
