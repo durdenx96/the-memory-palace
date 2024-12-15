@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Terminal on Alexander Atte</title>
-    <link>http://localhost:1313/tags/terminal/</link>
+    <link>https://example.org/tags/terminal/</link>
     <description>Recent content in Terminal on Alexander Atte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Dec 2024 16:14:15 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/terminal/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Dec 2024 16:14:15 +0100</lastBuildDate><atom:link href="https://example.org/tags/terminal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello Hugo</title>
-      <link>http://localhost:1313/posts/hello-hugo/</link>
+      <link>https://example.org/posts/hello-hugo/</link>
       <pubDate>Sun, 15 Dec 2024 16:14:15 +0100</pubDate>
       
-      <guid>http://localhost:1313/posts/hello-hugo/</guid>
+      <guid>https://example.org/posts/hello-hugo/</guid>
       <description>Introduction to Hugo This is my first Hugo website. Join me as I fuck around and find out.
 PS: If you&amp;rsquo;re expecting a walkthrough this is not it. I&amp;rsquo;ll start by saying the title may be misleading, for someone with a non-technical background there&amp;rsquo;s nothing objectively &amp;lsquo;quick&amp;rsquo; aboout Hugo ಠ_ಠ.
 Compared to the thousands of AI tools spawned by the second this took me 3 whole days to figure out! But those were some of the most fulfilling 3 days I&amp;rsquo;ve had in a minute, truth be told Hugo is not complicated once you start to actually get it (ignore the redundancy of this statement, you know what I mean).</description>
