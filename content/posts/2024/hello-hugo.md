@@ -1,9 +1,7 @@
 +++
 title = "Hello Hugo"
 date = "2024-12-15T16:14:15+01:00"
-#dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
 author = "alex"
-authorTwitter = "" #do not include @
 cover = ""
 tags = ["hugo", "terminal", "netlify"]
 keywords = ["hugo", "terminal", "netlify"]

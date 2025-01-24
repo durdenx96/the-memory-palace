@@ -6,7 +6,7 @@ hideComments = true
 
 # Hey stranger
 
-Alexander Atte here, A.K.A @durdenx96. I'm a big fan of marketing, computer stuff, film, literature, first person shooters ... and oh yeah I write.
+Alexander Atte here, A.K.A @durdenx96. My world is a blend of creativity and technology, big fan of digital innovation, marketing, linux, film, literature, chess, and first person shooters. Writing is how I tie it all together.
 
 [GitHub](https://github.com/durdenx96) :: [Twitter](https://twitter.com/durdenx96) :: [Instagram](https://instagram/durdenx96)
 

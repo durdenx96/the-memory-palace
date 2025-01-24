@@ -9,10 +9,10 @@
     <lastBuildDate>Sun, 15 Dec 2024 16:14:15 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/terminal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello Hugo</title>
-      <link>http://localhost:1313/posts/hello-hugo/</link>
+      <link>http://localhost:1313/posts/2024/hello-hugo/</link>
       <pubDate>Sun, 15 Dec 2024 16:14:15 +0100</pubDate>
       
-      <guid>http://localhost:1313/posts/hello-hugo/</guid>
+      <guid>http://localhost:1313/posts/2024/hello-hugo/</guid>
       <description>Introduction to Hugo This is my first Hugo website. Join me as I fuck around and find out.
 PS: If you&amp;rsquo;re expecting a walkthrough this is not it. I&amp;rsquo;ll start by saying the title may be misleading, for someone with a non-technical background there&amp;rsquo;s nothing objectively &amp;lsquo;quick&amp;rsquo; aboout Hugo ಠ_ಠ.
 Compared to the thousands of AI tools spawned by the second this took me 3 whole days to figure out! But those were some of the most fulfilling 3 days I&amp;rsquo;ve had in a minute, truth be told Hugo is not complicated once you start to actually get it (ignore the redundancy of this statement, you know what I mean).</description>
@@ -20,7 +20,7 @@ Compared to the thousands of AI tools spawned by the second this took me 3 whole
 &lt;p&gt;This is my &lt;strong&gt;first&lt;/strong&gt; Hugo website. Join me as I fuck around and find out.&lt;br&gt;
 &lt;br&gt;
 PS: If you&amp;rsquo;re expecting a walkthrough this is not it. I&amp;rsquo;ll start by saying the title may be misleading, for someone with a non-technical background there&amp;rsquo;s nothing objectively &amp;lsquo;quick&amp;rsquo; aboout Hugo ಠ_ಠ.&lt;/p&gt;
-&lt;p&gt;Compared to the thousands of AI tools spawned by the second this took me 3 whole days to figure out! But those were some of the most fulfilling 3 days I&amp;rsquo;ve had in a minute, truth be told Hugo is not complicated once you start to actually get it (ignore the redundancy of this statement, you know what I mean). Built on a the HCJG stack (little tongue twister for ya) - HTML, CSS, JS and Go, the abundance of themes are a God send feature so there&amp;rsquo;s something for just about everyone and every purpose. Will I keep using Hugo moving forward? HELL MF YEAH!! It&amp;rsquo;s quick and damn near perfect.&lt;/p&gt;
+&lt;p&gt;Compared to the thousands of AI tools spawned by the second this took me 3 whole days to figure out! But those were some of the most fulfilling 3 days I&amp;rsquo;ve had in a minute, truth be told Hugo is not complicated once you start to actually get it (ignore the redundancy of this statement, you know what I mean). Built on a the HCJG stack (little tongue twister for ya) - HTML, CSS, JS and Go, the abundance of themes are a God send feature so there&amp;rsquo;s something for just about everyone and every purpose. Will I keep using Hugo moving forward? HELL MF YEAH!! It&amp;rsquo;s quick and damn near perfect. &lt;a href=&#34;https://github.com/durdenx96/the-memory-palace&#34;&gt;Github Source Code&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
