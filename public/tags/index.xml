@@ -18,21 +18,11 @@
     </item>
     
     <item>
-      <title>Netlify</title>
-      <link>http://localhost:1313/tags/netlify/</link>
+      <title>Bullish</title>
+      <link>http://localhost:1313/tags/bullish/</link>
       <pubDate>Fri, 24 Jan 2025 07:57:28 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/netlify/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>New-Year</title>
-      <link>http://localhost:1313/tags/new-year/</link>
-      <pubDate>Fri, 24 Jan 2025 07:57:28 +0100</pubDate>
-      
-      <guid>http://localhost:1313/tags/new-year/</guid>
+      <guid>http://localhost:1313/tags/bullish/</guid>
       <description></description>
       <content></content>
     </item>
@@ -48,11 +38,51 @@
     </item>
     
     <item>
+      <title>Netlify</title>
+      <link>http://localhost:1313/tags/netlify/</link>
+      <pubDate>Sun, 15 Dec 2024 16:14:15 +0100</pubDate>
+      
+      <guid>http://localhost:1313/tags/netlify/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
       <title>Terminal</title>
       <link>http://localhost:1313/tags/terminal/</link>
       <pubDate>Sun, 15 Dec 2024 16:14:15 +0100</pubDate>
       
       <guid>http://localhost:1313/tags/terminal/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>History</title>
+      <link>http://localhost:1313/tags/history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/history/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Nigeria</title>
+      <link>http://localhost:1313/tags/nigeria/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/nigeria/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Social-Commentary</title>
+      <link>http://localhost:1313/tags/social-commentary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/social-commentary/</guid>
       <description></description>
       <content></content>
     </item>

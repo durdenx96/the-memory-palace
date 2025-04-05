@@ -8,13 +8,10 @@
     <loc>http://localhost:1313/tags/2025/</loc>
     <lastmod>2025-01-24T07:57:28+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/bullish/</loc>
+    <lastmod>2025-01-24T07:57:28+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/2025/revelations/</loc>
-    <lastmod>2025-01-24T07:57:28+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/netlify/</loc>
-    <lastmod>2025-01-24T07:57:28+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/new-year/</loc>
     <lastmod>2025-01-24T07:57:28+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
@@ -29,11 +26,22 @@
     <loc>http://localhost:1313/tags/hugo/</loc>
     <lastmod>2024-12-15T16:14:15+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/netlify/</loc>
+    <lastmod>2024-12-15T16:14:15+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/terminal/</loc>
     <lastmod>2024-12-15T16:14:15+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/history/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/nigeria/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025/sisyphus-is-happy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/social-commentary/</loc>
   </url>
 </urlset>
