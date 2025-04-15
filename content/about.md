@@ -7,7 +7,7 @@ hideComments = true
 ## Introduction
  
 Carpe Diem.\
-Lover of history, food and all things technology. Currently on the computer either watching Anthony Bourdain videos or learning linux system administration. This is supposed to be a digital repo for all my writing across various topics, might even build some neat thing on here too. We'll see. 
+Lover of history, food and all things technology. Currently on the computer watching Anthony Bourdain  travel videos. This is supposed to be a digital repo for all my writing across various topics, might even build some neat thing on here too. We'll see. 
 
 ## Links
 
