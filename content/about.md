@@ -15,4 +15,4 @@ Lover of history, food and all things technology. Currently on the computer eith
 
 [Resume](files/temp-resume.pdf)
 
-[GitHub](https://github.com/durdenx96) :: [Twitter](https://twitter.com/durdenx96) :: [Instagram](https://instagram.com/durdenx96)
+[GitHub](https://github.com/durdenx96) :: [Medium](https://medium.com/@alexanderatte) :: [Twitter](https://twitter.com/durdenx96) :: [Instagram](https://instagram.com/durdenx96)
