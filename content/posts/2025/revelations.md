@@ -1,5 +1,5 @@
 +++
-title = 'Jordan Year'
+title = 'Jordan Year or Whatever it means to be 25'
 date = 2025-01-24T07:57:28+01:00
 draft = false
 author = "alex"
@@ -18,7 +18,7 @@ hideComments = false
 **First and foremost** I want to thank my mfing self for making it this far. 
 [insert itaintmuch.jpg]
 
-25 years of fucking around and finding out. Mindboggling stuff really. There's been more ups than downs, more smiles than frowns and lots of in-betweeners. Truthfully speaking there's been a lot more in-betweeners than there should've been, but as a great man once said; "ball up top brother". No point sulking over matters like spilled milk. Onward. Another great man almost religiously recites a quip I've found very helpful; "Observe. Adapt. Overcome."  Words to live by in my honest opinion.
+Also... if the title led you to thinking I'm a baby boy, think again. I have grandkids older than you. Anyway, 25 years of fucking around and finding out. Wasmt even my birthday when I wrote this, its mindboggling stuff really the things I get into. There's been more ups than downs, more smiles than frowns and lots of in-betweeners. Truthfully speaking there's been a lot more in-betweeners than there should've been, but as a great man once said; "ball up top brother". No point sulking over matters like spilled milk. Onward. Another great man almost religiously recites a quip I've found very helpful; "Observe. Adapt. Overcome."  Words to live by in my honest opinion.
 
 Now considering how delayed this space has been [insert itsbeen78years.jpg], I'll just dive into the weeds. This is my digital space for long form thought, reviews, literally everything and anything. Ironic take but it's my earth wire. 
 
